@@ -421,6 +421,7 @@ def closestServers(client, all=False):
         '://c.speedtest.net/speedtest-servers-static.php',
         '://www.speedtest.net/speedtest-servers.php',
         '://c.speedtest.net/speedtest-servers.php',
+        '://https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiU6_eImoXQAhUK3YMKHa6SDV8QFgghMAA&url=http%3A%2F%2Fwww.speedtest.net%2Fspeedtest-servers.php&usg=AFQjCNFebcw7NfgWGZJxtIWMGSr4hx0sFQ&sig2=ApXYMV_g9PmVN2n2mUJwOQ&cad=rja',
     ]
     errors = []
     servers = {}
